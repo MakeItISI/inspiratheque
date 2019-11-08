@@ -1,0 +1,608 @@
+<!doctype html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="author" content="Handicap.fr" />
+	<meta name="referrer" content="origin" />
+	<meta name="description" content="Handicap.fr : l'information et les services, du handicap à l'autonomie : assistance en ligne, produits et services,accès thématiques, annuaire du handicap, agenda du handicap, etc." />
+	<meta name="keywords" lang="fr" content="personne handicapée, handicapé, handicap, accessibilité, autonomie, rééducation, mobilité réduite, maintien à; domicile, aide à domicile, déficient visuel, déficience visuelle, aveugle, cécité, transport adapté, paraplégique, sourd, surdité, muet, aphasie,dysphasie" />
+	<title>Glossaire, lettre a - Handicap.fr</title>
+		<link rel="stylesheet"  type="text/css" href="https://www.handicap.fr/reset.css?v=20180827" />
+	<link rel="stylesheet"  type="text/css" href="https://www.handicap.fr/style.css?v=20180827" />
+	<link rel="stylesheet"  type="text/css" href="https://www.handicap.fr/autocomplete.css?v=20190204" />
+	<link rel="stylesheet"  type="text/css" href="https://www.handicap.fr/print.css?v=20181204" media="print" />
+	<link href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap" rel="stylesheet" />
+	<!-- Divers ============================================================ -->
+	<link rel="Start" title="Raccourcis vers les produits et services handicap sur Handicap.fr" type="text/html" href="https://aides-techniques.handicap.fr" />
+	<!-- Icones ============================================================ -->
+	<link rel="shortcut icon" type="images/x-icon" href="https://www.handicap.fr/static/template/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="57x57"     href="https://www.handicap.fr/static/template/apple-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="60x60"     href="https://www.handicap.fr/static/template/apple-icon-60x60.png" />
+	<link rel="apple-touch-icon" sizes="72x72"     href="https://www.handicap.fr/static/template/apple-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76"     href="https://www.handicap.fr/static/template/apple-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114"   href="https://www.handicap.fr/static/template/apple-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120"   href="https://www.handicap.fr/static/template/apple-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144"   href="https://www.handicap.fr/static/template/apple-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152"   href="https://www.handicap.fr/static/template/apple-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180"   href="https://www.handicap.fr/static/template/apple-icon-180x180.png" />
+	<link rel="icon" type="image/png" sizes="192x192"  href="https://www.handicap.fr/static/template/android-icon-192x192.png" />
+	<link rel="icon" type="image/png" sizes="32x32"    href="https://www.handicap.fr/static/template/favicon-32x32.png" />
+	<link rel="icon" type="image/png" sizes="96x96"    href="https://www.handicap.fr/static/template/favicon-96x96.png" />
+	<link rel="icon" type="image/png" sizes="16x16"    href="https://www.handicap.fr/static/template/favicon-16x16.png" />
+	<link rel="manifest"  href="https://www.handicap.fr/manifest.json" />
+	<link rel="mask-icon" href="https://www.handicap.fr/safari-pinned-tab.svg" color="#cd5812">
+	<meta name="msapplication-TileColor" content="#ffffff" />
+	<meta name="msapplication-TileImage" content="https://www.handicap.fr/ms-icon-144x144.png" />
+	<meta name="theme-color" content="#ffffff" />
+	<!-- Search plug-in ==================================================== -->
+	<link rel="search" type="application/opensearchdescription+xml" title="Handicap.fr" href="https://www.handicap.fr/search-plugin.xml" />
+	<!-- Scripts =========================================================== -->
+	<!-- General tool scripts - - - - - - - - - - - - - - - - - - - - - - -  -->
+	<script async defer src="https://www.handicap.fr/scripts/tracking_link.js"></script>
+	<script async defer src="https://www.handicap.fr/scripts/axopen.js"></script>
+	<script async defer src="https://www.handicap.fr/scripts/auto-complete.js"></script>
+	<script>
+		function DisplayMenu() {
+		    var menu = document.getElementById("menuRight");
+		    if(menu.className == "Hidden"){ menu.className = "Display";
+		    } else { menu.className = "Hidden";
+		    }
+		}
+		var LclPopUpWindow;
+		function OpenPopUp (fichier) { LclPopUpWindow=window.open(fichier,'','scrollbars=yes,width=500,height=400,menubar=no,resizable=yes' ); }
+		function OpenPopUp2(fichier) { LclPopUpWindow=window.open(fichier,'','scrollbars=yes,width=500,height=400,menubar=yes,resizable=yes'); }
+		function ClosePopUp()        { if((LclPopUpWindow) && (!LclPopUpWindow.closed)) { LclPopUpWindow.close(); } }
+		function OpenPrkWindow(fichier) { LclPopUpWindow=window.open(fichier,'','scrollbars=yes,width=620,height=500,menubar=yes,resizable=yes'); }
+	</script>
+	<!-- Cookies consent (TaC) - - - - - - - - - - - - - - - - - - - - - - - -->
+	<script type="text/javascript" src="https://www.handicap.fr/scripts/tarteaucitron/tarteaucitron.js"></script>
+	<script type="text/javascript">
+		tarteaucitron.init({
+		  "privacyUrl": "", /* Privacy policy url  https://www.handicap.fr/data/  */
+		  "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+		  "cookieName": "tarteaucitron", /* Cookie name */
+
+		  "orientation": "top", /* Banner position (top - bottom) */
+		  "showAlertSmall": false, /* Show the small banner on bottom right */
+		  "cookieslist": true, /* Show the cookie list */
+
+		  "adblocker": false, /* Show a Warning if an adblocker is detected */
+		  "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+		  "highPrivacy": false, /* Disable auto consent */
+		  "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+		  "removeCredit"  : true  , /* Remove credit link */
+		  "moreInfoLink"  : true   , /* Show more info link */
+		  "useExternalCss": false  , /* If false, the tarteaucitron.css file will be loaded */
+		  "cookieDomain": ".handicap.fr",  /* Shared cookie for multisite */
+		  "readmoreLink": "https://www.handicap.fr/data/" /* Change the default readmore link */
+		});
+	</script>
+	<!-- Not personnalized / no cookie banners - - - - - - - - - - - - - - - -->
+	<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js' data-pagespeed-no-defer ></script>
+	<script type="text/javascript" data-pagespeed-no-defer>
+	  var googletag = googletag || {};
+	  googletag.cmd = googletag.cmd || [];
+	</script>
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      var mappingTopLeaderboard = googletag.sizeMapping().addSize([1012, 100 ], [[728, 90], [468, 60]]).addSize([500, 500 ], [468, 60]).addSize([0, 0 ], [300, 100]).build();
+      var mappingBotLeaderboard = googletag.sizeMapping().addSize([1012, 100 ], [[728, 90], [468, 60]]).addSize([500, 500 ], [468, 60]).addSize([0, 0 ], [300, 100]).build();
+      googletag.pubads().setCookieOptions(1); // to disallow the extra cookies
+      googletag.pubads().setRequestNonPersonalizedAds(1);
+      googletag.defineSlot('/36231557/Handicap.fr_All_pages_Top_full_banner'              , [[728, 90], [468, 60], [300,100]], 'div-gpt-ad-1424770983594-2').defineSizeMapping(mappingTopLeaderboard).addService(googletag.pubads());
+      googletag.defineSlot('/36231557/Handicap.fr_All_pages_Inner_Medium_rectangle_banner', [[300, 250], [300, 600]], 'div-gpt-ad-1424770983594-1').addService(googletag.pubads());
+      googletag.defineSlot('/36231557/Handicap.fr_All_pages_Bottom_Full_banner'           , [[728, 90], [468, 60], [300,100]], 'div-gpt-ad-1424770983594-0').defineSizeMapping(mappingBotLeaderboard).addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+    // <![CDATA[
+    // var resizeTimer;
+    // function resizer() { 	googletag.pubads().refresh(); }
+    // window.addEventListener("resize", function(){  	clearTimeout(resizeTimer);
+    // resizeTimer = setTimeout(resizer, 300); }); //3000
+    // ]]>
+    </script>
+	<!-- <script src="https://www.handicap.fr/scripts/banners.js"></script> -->
+	<!-- =================================================================== -->
+
+    <!-- facing 2 -->
+	<!-- =================================================================== -->
+</head>
+<body>
+  <header class="topHeader">
+      <nav id="aide">
+          <div>
+              <p class="shrink">
+                  <a class="lienclair" accesskey="2"  title="Aide et accessibilité" href="https://www.handicap.fr/aide/">Aide et accessibilité</a>
+                  <a class="lienclair" accesskey="3"  href="#contenu" title="Accès direct au contenu de la page">Contenu</a>
+                  <a class="lienclair" accesskey="5" title="Menu principal" href="#main_menus">Menu principal</a>
+                  <a class="lienclair" accesskey="6"  href="#contenuDroite" title="Menu de la navigation intérieure">Navigation complémentaire</a>
+                  <a class="lienclair" href="https://www.handicap.fr/#hfrservices" title="Autres (Annuaire, parking,...)">Autres services</a>
+                  <a class="lienclair" accesskey="7" href="https://www.handicap.fr/plan/">Plan du site</a>
+                  <a class="lienclair" href="javascript:tarteaucitron.userInterface.openPanel();">Gestion des cookies</a>
+              </p>
+              <ul id="sociallinks">
+                  <li>
+                      <a href="https://twitter.com/Handicap_fr" title="Handicap.fr sur Twitter" class="twitter"></a>
+                  </li><li>
+                      <a href="https://www.linkedin.com/company/handicap-fr" title="Handicap.fr sur LinkedIn" class="linkedin"></a>
+                  </li><li>
+                      <a href="https://www.facebook.com/handicap.fr" title="Handicap.fr sur Facebook" class="facebook"></a>
+                  </li><li>
+                      <a href="https://www.instagram.com/handicap_fr/" title="Handicap.fr sur Instagram" class="instagram"></a>
+                  </li><li>
+                      <a href="https://www.handicap.fr/newsletter/" title="Newsletter" class="nl"></a>
+                  </li><li>
+                      <a href="https://www.handicap.fr/rss/" target="_blank" title="Flux Rss" class="rss"></a>
+                  </li>
+              </ul>
+          </div>
+      </nav>
+      <div id="mainheader">
+          <div id="header_line_1">
+              <div id="header_line_1_sub">
+                  <div id="header_hgroup">
+                      <div id="menuResponsive">
+                          <div onclick="DisplayMenu()">
+                              <div>
+                                  <img alt="Menu" src="https://www.handicap.fr/static/template/Banque/Menu.svg">
+                              </div>
+                              <span>Menu</span>
+                          </div>
+                          <div id="menuRight" class="Hidden">
+                              <ul>
+                                <li><a href="https://informations.handicap.fr/article/" title="Actualités du handicap"><strong>Actualités</strong></a></li>
+                                <li><a href="https://aides-techniques.handicap.fr" title="Produits &amp; services adaptés"><strong>Produits &amp; services</strong></a></li>
+                                <li><a href="https://emploi.handicap.fr" title="Emploi et handicap"><strong>Emploi</strong></a></li>
+                                <li><a href="https://informations.handicap.fr/droit/" title="Droit et handicap"><strong>Droit</strong></a></li>
+                                <li><a href="https://tourisme.handicap.fr" title="Tourisme et handicap"><strong>Tourisme</strong></a></li>
+                                <li class="lastone">
+                                    <a href="https://informations.handicap.fr/video/" title="Plate-forme vidéo dédiée au handicap"><strong>Vidéo</strong></a>
+                                </li>
+                              </ul>
+                              <a style="display: none" href="">
+                                  <span>Se connecter </span><img src="https://www.handicap.fr/static/template/Banque/User/Fill.svg" aria-hidden="true" alt="Icone Connexion">
+                              </a>
+                              <div id="aideMenu">
+                                  <div>
+                                      <p class="shrink">
+                                          <a class="lienclair" accesskey="2" href="https://www.handicap.fr/aide/">Aide et accessibilité</a>
+                                          <a class="lienclair" accesskey="3" href="#contenu" title="Accès direct au contenu de la page">Contenu</a>
+                                          <a class="lienclair" accesskey="5" href="#main_menus">Menu principal</a>
+                                          <a class="lienclair" accesskey="6" href="#contenuDroite" title="Menu de la navigation intérieure">Navigation complémentaire</a>
+                                          <a class="lienclair" href="#hfrservices" title="Autres (Annuaire, parking,...)">Autres services</a>
+                                          <a class="lienclair" accesskey="7" href="https://www.handicap.fr/plan/">Plan du site</a>
+                                      </p>
+                                      <ul>
+                                          <li>
+                                              <a href="https://twitter.com/Handicap_fr" title="Handicap.fr sur Twitter" class="twitter"></a>
+                                          </li><li>
+                                              <a href="https://www.linkedin.com/company/handicap-fr" title="Handicap.fr sur LinkedIn" class="linkedin"></a>
+                                          </li><li>
+                                              <a href="https://www.facebook.com/handicap.fr" title="Handicap.fr sur Facebook" class="facebook"></a>
+                                          </li><li>
+                                              <a href="https://www.instagram.com/handicap_fr/" title="Handicap.fr sur Instagram" class="instagram"></a>
+                                          </li><li>
+                                              <a href="https://www.handicap.fr/newsletter/" title="Newsletter" class="nl"></a>
+                                          </li><li>
+                                              <a href="https://www.handicap.fr/rss/" target="_blank" title="Flux Rss" class="rss"></a>
+                                          </li>
+                                      </ul>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      <a id="logo" href="https://www.handicap.fr" accesskey="h" title="Accueil du site Handicap.fr">
+                          <img id="logo-img" itemprop="logo url"  src="https://www.handicap.fr/static/images/logo-handicap-fr.gif" alt="Handicap.fr" width="240" height="60"/>
+                      </a>
+                  </div>
+                  <nav>
+                      <div id="main_menus">
+                          <ul>
+                              <li><a href="https://informations.handicap.fr/article/"  title="Actualités du handicap"><strong>Actualités</strong></a></li>
+                              <li><a href="https://aides-techniques.handicap.fr" title="Produits &amp; services adaptés"><strong>Produits &amp; services</strong></a></li>
+                              <li><a href="https://emploi.handicap.fr" title="Emploi et handicap"><strong>Emploi</strong></a></li>
+                              <li><a href="https://informations.handicap.fr/droit/" title="Droit et handicap"><strong>Droit</strong></a></li>
+                              <li><a href="https://tourisme.handicap.fr" title="Tourisme et handicap"><strong>Tourisme</strong></a></li>
+                              <li class="lastone">
+                                  <a href="https://informations.handicap.fr/video/" title="Plate-forme vidéo dédiée au handicap"><strong>Vidéo</strong></a>
+                              </li>
+                          </ul>
+                      </div>
+                  </nav>
+                                        <a style="display: none" href="/login/">
+                          <span>Se connecter </span><img src="https://www.handicap.fr/static/template/Banque/User/Fill.svg" aria-hidden="true" alt="Icone Connexion">
+                      </a>
+                                </div>
+          </div>
+      </div>
+      <div class="recherche">
+          <form id="FormRecherche" action="https://recherche.handicap.fr" method="POST" name="rechercheForm">
+              <label style="color: transparent;" id="labelAccess">Recherchez : Article, produits, services, ...
+                <img class="loupe" id="sel_schorphanfrm_id" title="Recherchez : Article, produits, services, ..." alt="Recherchez : Article, produits, services, ..." src="https://www.handicap.fr/static/template/Banque/Recherche.svg"/>
+              </label>
+              <input accesskey="4" class="champRecherche" name="rechercheTxt"  placeholder="">
+              <input type="hidden" value="dt" name="classement_search" id="classement_search" />
+              <button type="submit" title="Recherche">Rechercher</button>
+          </form>
+      </div>
+      <div id="breadcrumb" class="breadcrumb">
+          <span>
+     <span itemscope="" itemtype="https://data-vocabulary.org/Breadcrumb"><a href="https://www.handicap.fr" itemprop="url"><span itemprop="title">Accueil</span></a></span>
+&gt; <span itemscope="" itemtype="https://data-vocabulary.org/Breadcrumb"><a href="https://glossaire.handicap.fr" itemprop="url"><span itemprop="title">Glossaire du handicap</span></a></span>
+&gt; <span itemscope="" itemtype="https://data-vocabulary.org/Breadcrumb"><a href="https://glossaire.handicap.fr/glossaire-handicap-a" itemprop="url"><span itemprop="title"> Lettre A</span></a></span></span>
+      </div>
+  </header>
+    <div id="global">
+        <div id="centraleBanner">
+                      
+<div id="topbnnr">
+<div style="text-align:center;" id="div-gpt-ad-1424770983594-2">
+    <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424770983594-2'); });
+    </script>
+</div>
+</div>                   </div>
+        <section id="contenu"  class = "produits wrapper">
+            <div id="message"></div>
+            
+<div class="actualite">                                                          
+   <div class="title actualite article">                                         
+     <h1 class="titleSecond">                                                   
+        Glossaire des abréviations ( A ) - Handicap.fr  
+     </h1>                                                                      
+   </div>                                                                        
+<div id="fullarticle">                                                       
+<p>Vous trouverez ci-dessous un glossaire et des définitions pour les abréviations, couramment utilisées dans le monde du handicap, commençant par la lettre "A".</p>
+<div class="glossary">
+<h2>AAH</h2>
+    <p>Allocation Adultes Handicapés
+        <a title="Plus sur : Allocation Adultes Handicapés" href="https://glossaire.handicap.fr/definition-aah-5">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>AES</h2>
+    <p>Allocation d'Education Spéciale
+        <a title="Plus sur : Allocation d'Education Spéciale" href="https://glossaire.handicap.fr/definition-aes-7">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>ACFP</h2>
+    <p>Allocation Compensatrice pour Frais Professionnels
+        <a title="Plus sur : Allocation Compensatrice pour Frais Professionnels" href="https://glossaire.handicap.fr/definition-acfp-8">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>ACTP</h2>
+    <p>Allocation Compensatrice pour Tierce Personne
+        <a title="Plus sur : Allocation Compensatrice pour Tierce Personne" href="https://glossaire.handicap.fr/definition-actp-9">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>AEEH</h2>
+    <p>Allocation d'Education de l'Enfant Handicapé
+        <a title="Plus sur : Allocation d'Education de l'Enfant Handicapé" href="https://glossaire.handicap.fr/definition-aeeh-10">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>AGEFIPH</h2>
+    <p>Association de Gestion des Fonds pour l'Insertion Professionnelle des Personnes Handicapées
+        <a title="Plus sur : Association de Gestion des Fonds pour l'Insertion Professionnelle des Personnes Handicapées" href="https://glossaire.handicap.fr/definition-agefiph-11">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>Aide à domicile</h2>
+    <p>Aide  à domicile
+        <a title="Plus sur : Aide  à domicile" href="https://glossaire.handicap.fr/definition-aide-a-domicile-12">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>APA</h2>
+    <p>Allocation personnalisée d'autonomie
+        <a title="Plus sur : Allocation personnalisée d'autonomie" href="https://glossaire.handicap.fr/definition-apa-13">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>Atelier protégé</h2>
+    <p>Ateliers protégés
+        <a title="Plus sur : Ateliers protégés" href="https://glossaire.handicap.fr/definition-atelier-protege-15">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>AVS</h2>
+    <p>Auxiliaire de vie scolaire
+        <a title="Plus sur : Auxiliaire de vie scolaire" href="https://glossaire.handicap.fr/definition-avs-16">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>Amendement Creton</h2>
+    <p> Article 22 de la Loi n° 89-18 du 13 janvier 1989 crée l'alinéa dit “amendement Creton” 
+        <a title="Plus sur :  Article 22 de la Loi n° 89-18 du 13 janvier 1989 crée l'alinéa dit “amendement Creton” " href="https://glossaire.handicap.fr/definition-amendement-creton-19">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>AMP</h2>
+    <p>Aide Médico-Psychologique
+        <a title="Plus sur : Aide Médico-Psychologique" href="https://glossaire.handicap.fr/definition-amp-87">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>Assistant d'éducation</h2>
+    <p>Assistant d'éducation (voir AVS)
+        <a title="Plus sur : Assistant d'éducation (voir AVS)" href="https://glossaire.handicap.fr/definition-assistant-d%5C-education-93">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>AJH</h2>
+    <p>Accompagnant de jeunes handicapés
+        <a title="Plus sur : Accompagnant de jeunes handicapés" href="https://glossaire.handicap.fr/definition-ajh-96">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>AESH</h2>
+    <p>Accompagnants d'élèves en situation de handicap
+        <a title="Plus sur : Accompagnants d'élèves en situation de handicap" href="https://glossaire.handicap.fr/definition-aesh-102">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>ASI</h2>
+    <p>Allocation Supplémentaire d'Invalidité
+        <a title="Plus sur : Allocation Supplémentaire d'Invalidité" href="https://glossaire.handicap.fr/definition-asi-109">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>Ad'AP</h2>
+    <p>Agenda d’Accessibilité Programmée
+        <a title="Plus sur : Agenda d’Accessibilité Programmée" href="https://glossaire.handicap.fr/definition-ad-ap-110">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>ARS</h2>
+    <p>Agence régionale de santé
+        <a title="Plus sur : Agence régionale de santé" href="https://glossaire.handicap.fr/definition-ars-111">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossary">
+<h2>AIP</h2>
+    <p>Aide à l'insertion professionnelle
+        <a title="Plus sur : Aide à l'insertion professionnelle" href="https://glossaire.handicap.fr/definition-aip-124">
+                          <img aria-hidden="true" src="https://www.handicap.fr/static/template/plus.svg"/>
+        </a>
+    </p>
+</div>
+<div class="glossaryLetters">
+Autres entrées du glossaire des abréviations du handicap :
+<p>
+<a title="Lettre a du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-a">A</a>
+<a title="Lettre c du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-c">C</a>
+<a title="Lettre d du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-d">D</a>
+<a title="Lettre e du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-e">E</a>
+<a title="Lettre f du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-f">F</a>
+<a title="Lettre g du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-g">G</a>
+<a title="Lettre i du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-i">I</a>
+<a title="Lettre l du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-l">L</a>
+<a title="Lettre m du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-m">M</a>
+<a title="Lettre n du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-n">N</a>
+<a title="Lettre p du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-p">P</a>
+<a title="Lettre r du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-r">R</a>
+<a title="Lettre s du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-s">S</a>
+<a title="Lettre t du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-t">T</a>
+<a title="Lettre u du glossaire handicap" href="https://glossaire.handicap.fr/glossaire-handicap-u">U</a>
+</p>
+</div>
+</div>        </section>
+        <aside id="contenuDroite">
+            
+    <div id="focus" class="produits">    
+        <div class="title">
+            <h1 class="titleSecond">
+               Focus produit
+            </h1>
+        </div>
+      <div>
+<div itemscope=""  itemtype="https://schema.org/Product"  class="detailProduit">
+ <a itemprop="url" href="https://aides-techniques.handicap.fr/p-cape-impermeable-adaptee-fauteuil-roulant-tcap-143-8848.php"><img alt="image produit" title="Image : Cape imperméable adaptée pour fauteuil roulant" src="https://www.handicap.fr/static/produits/img4/img_4_8848_0300.jpg"/>
+        <h2 itemprop="name">Cape imperméable adaptée pour fauteuil roulant</h2>
+</a></div>
+<div itemscope=""  itemtype="https://schema.org/Product"  class="detailProduit">
+ <a itemprop="url" href="https://aides-techniques.handicap.fr/p-accelerateur-volant-accel-sojadis-81-8545.php"><img alt="image produit" title="Image : Accélérateur au volant Accel III" src="https://www.handicap.fr/static/produits/img4/img_4_8545_0300.jpg"/>
+        <h2 itemprop="name">Accélérateur au volant Accel III</h2>
+</a></div>
+<div itemscope=""  itemtype="https://schema.org/Product"  class="detailProduit">
+ <a itemprop="url" href="https://aides-techniques.handicap.fr/p-solutions-appel-malade-assistx-call-assistx-mobile-271-8938.php"><img alt="image produit" title="Image : Solutions d'appel malade AssistX Call - AssistX Mobile" src="https://www.handicap.fr/static/produits/img4/img_4_8938_0300.jpg"/>
+        <h2 itemprop="name">Solutions d'appel malade AssistX Call - AssistX Mobile</h2>
+</a></div>
+</div>
+ <div class="button">
+    <div class="purpleButton">
+        <a href="https://aides-techniques.handicap.fr">
+           <span><img alt="Plus de produits" title="Plus de produits" src="https://www.handicap.fr/static/template/Banque/Fleche-rightPurple.svg" /> Plus de produits</span>
+        </a>
+    </div>
+</div>
+</div>                                                                                                                                    
+
+<div id="cntrbnnr">
+<div id="div-gpt-ad-1424770983594-1">                                                             
+    <script>                                                                                      
+       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424770983594-1'); });     
+    </script>                                                                                     
+</div>                                                                                            
+</div>                                                                                                    </aside>
+    </div> <!-- #global -->
+	<footer>
+		<div id="footerTop" class="footer">
+			<div id="newsletter" class="section">
+				<h1>Inscrivez-vous et recevez gratuitement la newsletter Handicap.fr</h1>
+				<form action="https://www.handicap.fr/newsletter/" method="POST" id="newsletterForm" name="newsletterForm">
+				    <label style="color:transparent;">Rentrez votre E-mail
+				        <img class="loupe" title="Saisissez votre E-mail" alt="Saisissez votre E-mail" id="mailImg" src="https://www.handicap.fr/static/template/Banque/Mail/Line.svg"/>
+				    </label>
+				    <input id="email_new"    class="champRecherche" name="mail_news" type="email" placeholder="Votre e-mail" />
+				    <input id="email_new_id" name="mail_news_id" type="hidden" value="fromfrontform" />
+				    <button type="submit" title="S'inscrire à la newsletter">S'inscrire</button>
+				</form>
+			</div>
+			<div id="sociallinksFooter" class="section">
+				<h1>Nous suivre</h1>
+				<ul id="sociallinksnext">
+					<li>
+					    <a href="https://twitter.com/Handicap_fr" title="Handicap.fr sur Twitter" class="twitter"><img alt="Twitter" src="https://www.handicap.fr/static/template/Banque/Social/Twitter-white.svg"></a>
+					</li><li>
+					    <a href="https://www.linkedin.com/company/handicap-fr" title="Handicap.fr sur LinkedIn" class="linkedin"><img alt="Linkedin" src="https://www.handicap.fr/static/template/Banque/Social/LinkedIn-white.svg"></a>
+					</li><li>
+					    <a href="https://www.facebook.com/handicap.fr" title="Handicap.fr sur Facebook" class="facebook"><img alt="Facebook" src="https://www.handicap.fr/static/template/Banque/Social/Facebook-white.svg"></a>
+					</li><li>
+					    <a href="https://www.instagram.com/handicap_fr/" title="Handicap.fr sur Instagram" class="instagram"><img alt="Instagram" src="https://www.handicap.fr/static/template/Banque/Social/Instagram-white.svg"></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="footerBot">
+			<div class="add">
+			    
+<div id="botbnnr">
+<div id="div-gpt-ad-1424770983594-0">                                                             
+    <script>                                                                                      
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1424770983594-0'); });    
+    </script>                                                                                     
+</div>                                                                                            
+</div>                                                                                            			</div>
+			<div id="innerfooter">
+			    <a href="https://www.handicap.fr" accesskey="1" title="Accueil du site Handicap.fr">
+			        <img src="https://www.handicap.fr/static/images/logo-handicap-fr.gif" alt="Handicap.fr">
+			    </a>
+			    <ul>
+			        <li>
+			            <a title="Plan du site" href="https://www.handicap.fr/plan/">Plan du site</a>
+			        </li><li>
+			            <a title="Contact" href="https://www.handicap.fr/contact" accesskey="8">Contact</a>
+			        </li><li>
+			            <a title="Publicité Partenariat" href="https://www.handicap.fr/publicite">Publicité &amp; Partenariat</a>
+			        </li><li>
+			            <a title="Mentions légales" href="https://www.handicap.fr/mention">Mentions légales</a>
+			        </li><li>
+			            <a title="Politique de gestion des données" href="https://www.handicap.fr/data/">Données</a>
+			        </li><li>
+			            <a title="Qui sommes nous" href="https://www.handicap.fr/about">Qui sommes nous ?</a>
+			        </li>
+			    </ul>
+			</div>
+			<div id="liensFooter">
+				
+<div class="section">
+<h1 style="display: none;">Handicap.fr</h1>
+    <a href="https://informations.handicap.fr/article" title="Actualités du Handicap" style="text-decoration:  none;"><h2>Actualités</h2>
+    <ul>
+       <li>Toutes les actualités</li>
+       <li>sur le handicap</li>
+    </ul>
+</a>
+</div>
+<div>
+    <a href="https://aides-techniques.handicap.fr" title="Produits et services adaptés" style="text-decoration:  none;"><h2>Produits</h2>
+    <ul>
+       <li>Tous les produits</li>
+       <li>pour faciliter votre accès.</li>
+    </ul></a>
+</div>
+<div>
+    <a href="https://emploi.handicap.fr" title="Emploi et handicap" style="text-decoration:  none;"><h2>Emploi</h2>
+    <ul>
+       <li>Candidatures et prise d'annonce</li>
+    </ul></a>
+</div>
+<div>
+    <a href="https://www.handicap.fr/#hfrservices" title="Services adaptés" style="text-decoration:  none;"><h2>Services</h2>
+    <ul>
+       <li>Tous les services du handicap !</li>
+    </ul></a>
+</div>
+<div>
+    <a href="https://informations.handicap.fr/droit" title="Droit et handicap" style="text-decoration:  none;"><h2>Droits & Finance</h2>
+    <ul>
+       <li>Toute l'actualité du handicap</li>
+       <li> sur vos droits</li>
+    </ul></a>
+</div>			</div>
+			<div id="partners">
+				<p aria-hidden="true">Sites partenaires</p>
+				<p class="shrink partners">
+				    <a title="Accédez à HelloHandicap"  href="https://www.handicap.fr/partner-hellohandicap/" class="hellohandicap partenersList"></a>
+				    <a title="Accédez à AutonomEase"    href="https://www.handicap.fr/partner-autonomease/"   class="autonomease partenersList"  ></a>
+				    <a title="Accédez à HomeAccess"     href="https://www.handicap.fr/partner-homeaccess/"    class="homeaccess partenersList"   ></a>
+				    <a title="Accédez à Salon Handicap" href="https://www.handicap.fr/partner-salonhandicap/" class="salonhandicap partenersList"></a>
+				</p>
+			</div>
+			<div id="lastfooter">
+				<div itemscope="" itemtype="https://schema.org/Organization" itemref="logo-img" id="organization" class="shrink">
+					<span itemprop="name legalName"><strong>Handicap.fr</strong></span>
+					<div id="AdresseHandicap" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
+						<span itemprop="streetAddress"> 59 rue de l'Abondance</span> -
+						<span itemprop="postalCode">F-69003</span>
+						<span itemprop="addressLocality">Lyon</span>
+						<span itemprop="addressCountry">France</span>
+						<span itemprop="email">info@handicap.fr</span>
+						<span> | <a itemprop="url" href="https://www.handicap.fr">Handicap.fr</a></span>
+						<span>2002 - 2018 tous droits réservés - <a href="#aide" accesskey="9" title="Haut de page">Haut</a></span>
+					</div>
+					<span id="pagetstamp">Page générée le 08-11-2019 17:53:41</span>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div id="hfrgoldenbees" class="hfrgoldenbees"></div>
+	<script type="text/javascript">
+		tarteaucitron.user.facebookpixelId = '1847460792208738'; tarteaucitron.user.facebookpixelMore = function () { /* add here your optionnal facebook pixel function */ };
+		(tarteaucitron.job = tarteaucitron.job || []).push('facebookpixel');
+		//
+		tarteaucitron.user.analyticsUa = 'UA-974452-1';
+		tarteaucitron.user.analyticsMore = function () { /* add here your optionnal ga.push() */ };
+		(tarteaucitron.job = tarteaucitron.job || []).push('analytics');
+		//
+		tarteaucitron.user.googlemapsKey = 'AIzaSyD2QF04C6dqvIk-RQq3qPZt8UYY67d5pVY';
+		tarteaucitron.user.mapscallback = 'tac_googlemaps_callback_custom';
+		(tarteaucitron.job = tarteaucitron.job || []).push('googlemaps');
+		//
+		(tarteaucitron.job = tarteaucitron.job || []).push('hfrgoldenbees');
+	</script>
+</body>
+</html>
